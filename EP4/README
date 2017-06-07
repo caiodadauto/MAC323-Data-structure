@@ -1,0 +1,34 @@
+                __/\\\\\\\\\\\\\\\__/\\\\\\\\\\\\\________________________/\\\____        
+                 _\/\\\///////////__\/\\\/////////\\\____________________/\\\\\____       
+                  _\/\\\_____________\/\\\_______\/\\\__________________/\\\/\\\____      
+                   _\/\\\\\\\\\\\_____\/\\\\\\\\\\\\\/_________________/\\\/\/\\\____     
+                    _\/\\\///////______\/\\\/////////_________________/\\\/__\/\\\____    
+                     _\/\\\_____________\/\\\________________________/\\\\\\\\\\\\\\\\_   
+                      _\/\\\_____________\/\\\_______________________\///////////\\\//__  
+                       _\/\\\\\\\\\\\\\\\_\/\\\_________________________________\/\\\____ 
+                        _\///////////////__\///__________________________________\///_____
+
+
+                        /****************************************************************************
+                          * 
+                          * Desenvolvido Por:
+                          * 	Alex Valerio Andriati  Nusp: 7994788
+                          * 	Caio Vinicius Dadauto  Nusp: 7994808
+                          * 
+                          * Compilation: javac-algs4 <Arquivo.xml > <Arquivo.adjlist>
+                          *
+                          **************************************************************************/
+
+                          -> Cada classe implementada está devidamente comentada, com uma breve descrição
+                             de seu funcionamento bem como suas dependências
+                          
+                          -> Os arquivos das listas de adjacencia (.adjlist) são gerados pelo programa
+                             xmltoadj.py
+                          
+                          -> Ao executar o programa o usuário devera inserir uma das opções desejas que
+                             são apresentadas na tela. Para traçar uma rota é necessário que o mapa seja
+                             previamente desenhada no tela. As rotas podem ser salvas em arquivos de
+                             extensão png (<nome do arquivo>.png). A aŕea do mapa pode ser redefinida
+                             a partir de dois pontos, onde esses pontos definem a diagonal de um retângulo
+                             onde o mapa será redesenhado.
+

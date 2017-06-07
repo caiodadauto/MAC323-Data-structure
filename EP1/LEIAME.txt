@@ -1,0 +1,6 @@
+EP2 -> Estrutura de Dados 2 MAC0323
+
+- Os nomes das imagens que seguem como exemplo são justamente os comandos para gerar
+	gera-las.
+	
+- Cada arquivo .java contem os comentarios e uma breve explicação de sua finalidade.

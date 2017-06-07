@@ -1,0 +1,25 @@
+                __/\\\\\\\\\\\\\\\__/\\\\\\\\\\\\\_________________/\\\\\\\\\\__        
+                 _\/\\\///////////__\/\\\/////////\\\_____________/\\\///////\\\_       
+                  _\/\\\_____________\/\\\_______\/\\\____________\///______/\\\__      
+                   _\/\\\\\\\\\\\_____\/\\\\\\\\\\\\\/____________________/\\\//___     
+                    _\/\\\///////______\/\\\/////////_____________________\////\\\__    
+                     _\/\\\_____________\/\\\_________________________________\//\\\_   
+                      _\/\\\_____________\/\\\________________________/\\\______/\\\__  
+                       _\/\\\\\\\\\\\\\\\_\/\\\_______________________\///\\\\\\\\\/___ 
+                        _\///////////////__\///__________________________\/////////_____
+                    ->>         Caio Vinicius Dadauto       Nusp: 7994808            <<-
+
+
+                    -> Cada arquivo esta´ devidamente comentado;
+                    
+                    -> O tempo gasto pelo programa e´ proporcional ao tamanho do caminho
+                       determinado pela solucao. Pois, a pilha path que armazena o caminho
+                       e´ determinada a partir do vetor edgeTo o qual representa uma
+                       unica arvore com raiz em (1, 1), isso se deve ao  labirinto ser perfeito,
+                       ou seja, possuir um unico caminho para cada par de pontos origem destino.
+                       Como o edgeTo e´ uma arvore, o caminho que resulta na solucao desejada pode
+                       ser encontrado sem que seja necessario realizar uma busca em profundidade
+                       para cada novo conjunto de pontos origem destino, ao inves disso, busca-se
+                       o caminho desejado em uma arvore. O que por sua vez garante que o tempo
+                       gasto pelo programa sera´ proporcional ao comprimento do caminho entre 
+                       o par de pontos.

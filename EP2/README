@@ -1,0 +1,22 @@
+                __/\\\\\\\\\\\\\\\__/\\\\\\\\\\\\\________________/\\\\\\\\\_____        
+                 _\/\\\///////////__\/\\\/////////\\\____________/\\\///////\\\___       
+                  _\/\\\_____________\/\\\_______\/\\\___________\///______\//\\\__      
+                   _\/\\\\\\\\\\\_____\/\\\\\\\\\\\\\/______________________/\\\/___     
+                    _\/\\\///////______\/\\\/////////_____________________/\\\//_____    
+                     _\/\\\_____________\/\\\___________________________/\\\//________   
+                      _\/\\\_____________\/\\\_________________________/\\\/___________  
+                       _\/\\\\\\\\\\\\\\\_\/\\\________________________/\\\\\\\\\\\\\\\_ 
+                        _\///////////////__\///________________________\///////////////__
+
+                    ->>         Caio Vinicius Dadauto       Nusp: 7994808            <<-
+
+
+                    -> Cada arquivo esta´ devidamente comentado;
+                    
+                    -> Para analisar o desempenho de cada programa (GeoIPlookupRedBlackBST.java,
+                       GeoIPlookupBST, GeoIPlookupST) foi utilizado a classe Stopwatch;
+
+                    -> No inicio de cada programa e´ estimado o tempo medio de execucao.
+                       Assim, e´ possivel inferir que o ST possui um desempenho melhor que os
+                       demais (RedBlackBST, BST), enquanto que o BST possui o pior desempenho,
+                       mesmo buscando o caso medio para o BST;
